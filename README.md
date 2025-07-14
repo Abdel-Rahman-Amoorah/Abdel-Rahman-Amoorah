@@ -33,14 +33,14 @@ A secure chat app developed with React Native (frontend) and C#/.NET (backend), 
 I'm actively looking for:
 - Cybersecurity internships or junior roles
 - Collaborations on security or open-source tools
-- Freelance opportunities (you can also find me on Upwork)
+- Freelance opportunities (you can also find me on [Upwork](https://www.upwork.com/freelancers/~017a32f623a19ad6b0)
 
 ---
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [YourEmail@example.com]
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulrhmanammourah/)
+- 📧 Email: [abdulrhmanammourah@gmail.com]
+- 🔗 LinkedIn: [linkedin.com/in/abdulrhmanammourah](https://www.linkedin.com/in/abdulrhmanammourah/)
 - 🌐 Portfolio: [your-portfolio-link.com] *(if available)*
 
 ---
