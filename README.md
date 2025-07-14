@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, open-source pr
 
 ---
 
-## 🔧 Projects I'm Proud Of
+## 🔧 Projects
 
 ### 🛠 UMBRA
 AI-enhanced password generation tool powered by OSINT data for targeted password list creation and secure password suggestions. Built for Linux terminal environments.
@@ -39,7 +39,7 @@ I'm actively looking for:
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [abdulrhmanammourah@gmail.com]
+- 📧 Email: abdulrhmanammourah@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/abdulrhmanammourah](https://www.linkedin.com/in/abdulrhmanammourah/)
 - 🌐 Portfolio: [your-portfolio-link.com] *(if available)*
 
