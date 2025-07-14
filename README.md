@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abdul-Rhman Ammourah
+# 👋 Hello, I'm Abdel-Rahman Amoorah
 
 🎓 Cybersecurity Graduate | 🛡️ Blue Team Enthusiast | 💻 Developer
 
