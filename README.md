@@ -41,7 +41,7 @@ I'm actively looking for:
 
 - 📧 Email: abdulrhmanammourah@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/abdulrhmanammourah](https://www.linkedin.com/in/abdulrhmanammourah/)
-- 🌐 Portfolio: [your-portfolio-link.com] *(if available)*
+- 🌐 Portfolio: [abdul-rahman-ammourah.github.io](https://abdul-rahman-ammourah.github.io/)
 
 ---
 
