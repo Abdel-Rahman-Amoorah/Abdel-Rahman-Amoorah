@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdul-Rhman Ammourah
 
-🎓 Cybersecurity Graduate | 🛡️ Blue Team Enthusiast | 💻 Developer | 🇯🇴 Based in Jordan
+🎓 Cybersecurity Graduate | 🛡️ Blue Team Enthusiast | 💻 Developer
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, open-source projects, and building practical tools that solve real-world problems. My background combines software development with strong security principles, and I'm always exploring new challenges and technologies.
 
@@ -21,9 +21,9 @@ A secure chat app developed with React Native (frontend) and C#/.NET (backend), 
 
 ## 🧠 Skills
 
-- **Languages**: Python, JavaScript, C#, Bash, HTML/CSS
-- **Frameworks/Tools**: React Native, Django, Node.js, MongoDB, .NET, Scrapy, Playwright
-- **Security**: OSINT, Splunk, SOC Monitoring, Digital Forensics, Network Defense
+- **Languages**: Python, Bash, HTML/CSS
+- **Frameworks/Tools**: React Native, MongoDB
+- **Security**: OSINT, Splunk, SOC Monitoring, Digital Forensics
 - **Certifications**: CompTIA Security+
 
 ---
@@ -33,14 +33,14 @@ A secure chat app developed with React Native (frontend) and C#/.NET (backend), 
 I'm actively looking for:
 - Cybersecurity internships or junior roles
 - Collaborations on security or open-source tools
-- Freelance opportunities (you can also find me on Upwork & Mostaql)
+- Freelance opportunities (you can also find me on Upwork)
 
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 Email: [YourEmail@example.com]
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulrhmanammourah/)
 - 🌐 Portfolio: [your-portfolio-link.com] *(if available)*
 
 ---
