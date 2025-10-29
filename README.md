@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdel-Rahman Amoorah
 
-🎓 Cybersecurity Graduate | 🛡️ Blue Team Enthusiast | 💻 Developer
+🎓 Cybersecurity Graduate | Web/Mobile Developer
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, open-source projects, and building practical tools that solve real-world problems. My background combines software development with strong security principles, and I'm always exploring new challenges and technologies.
 
