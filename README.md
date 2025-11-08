@@ -22,7 +22,7 @@ A secure chat app developed with React Native (frontend) and C#/.NET (backend), 
 ## 🧠 Skills
 
 - **Languages**: Python, Bash, HTML/CSS
-- **Frameworks/Tools**: React Native, MongoDB
+- **Frameworks/Tools**: React, React Native, Node.js , Next.js, MongoDB
 - **Security**: OSINT, Splunk, SOC Monitoring, Digital Forensics
 - **Certifications**: CompTIA Security+
 
@@ -33,7 +33,7 @@ A secure chat app developed with React Native (frontend) and C#/.NET (backend), 
 I'm actively looking for:
 - Cybersecurity internships or junior roles
 - Collaborations on security or open-source tools
-- Freelance opportunities (you can also find me on [Upwork](https://www.upwork.com/freelancers/~017a32f623a19ad6b0))
+- Freelance opportunities.
 
 ---
 
@@ -41,7 +41,7 @@ I'm actively looking for:
 
 - 📧 Email: abdulrhmanammourah@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/abdulrhmanammourah](https://www.linkedin.com/in/abdulrhmanammourah/)
-- 🌐 Portfolio: [abdel-rahman-amoorah.github.io](https://abdel-rahman-amoorah.github.io/MyPortfolio/)
+- 🌐 Portfolio: [abdel-rahman-amoorah](https://abdelrahmanamoorah.vercel.app/)
 
 ---
 
